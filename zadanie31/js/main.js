@@ -1,4 +1,10 @@
-function myFunction() {
-  document.querySelector("button").onclick = 
-  alert('Klik działa!');
+var x = document.querySelector("button")
+
+function myFunction(x) {    
+    
+    alert('Klik działa!');
 }
+
+
+    
+
