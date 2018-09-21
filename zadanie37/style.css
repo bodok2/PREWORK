@@ -1,0 +1,31 @@
+body {
+    background-color: darkgray; font-family:serif; 
+}
+
+h1 {
+    background-color: beige;
+    color: cornflowerblue;
+}
+
+#dodaj {
+    background-color: aquamarine;
+    padding: 15px 32px;
+    width: 100px;
+    height: 50px;
+    opacity: 0.6;
+    background-color: red;
+    border-radius: 12px;
+    display: inline-block;
+}
+#usun {
+     background-color: aquamarine;
+    padding: 15px 32px;
+    width: 100px;
+    height: 50px;
+    opacity: 0.6;
+    background-color: red;  
+    background-color: aquamarine; 
+    border-radius: 12px;
+    display: inline-block;
+
+}
