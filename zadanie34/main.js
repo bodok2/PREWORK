@@ -9,4 +9,4 @@ if(x.length > y.length) {
       return y;
     }
   }
-myFunction();  
+myFunction(x, y);  
