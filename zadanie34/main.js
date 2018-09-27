@@ -2,7 +2,7 @@ var x = "Uwielbiam JavaScript";
  
 var y = "Jestem świetnym programistą";
 
-    function myFunction() { 
+    function myFunction(x,y) { 
 if(x.length > y.length) {
       return x;
     } else {
